@@ -1,5 +1,6 @@
 # project-demo
 Demonstracja zarządzania projektem na GitHub
+
 ## Nawigacja
-- [Strona główna](index.html)
+- [Strona głowna](index.html)
 - [O nas](about.html)
